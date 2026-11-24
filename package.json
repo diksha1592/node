@@ -1,0 +1,16 @@
+{
+  "name": "static-node-app",
+  "version": "1.0.0",
+  "description": "A simple static Node.js application using built-in HTTP",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "static",
+    "http-server"
+  ],
+  "author": "",
+  "license": "ISC"
+}
